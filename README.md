@@ -1,5 +1,5 @@
-# java-springboot-playground
-A hands-on repository for learning and experimenting with Java and Spring Boot. 
+# Springboot-playground
+A hands-on repository for learning and experimenting with Spring Boot. 
 
 
 [Spring-boot Overview](./concepts/sb_overview.md)

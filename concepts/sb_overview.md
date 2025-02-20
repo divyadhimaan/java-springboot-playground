@@ -2,7 +2,9 @@
 
 ## What is Spring Boot?
 
-Spring Boot is an open-source framework built on top of Spring Framework to simplify the development of Java-based applications, particularly microservices. It provides a convention-over-configuration approach, reducing boilerplate code and making application setup quicker and more efficient.
+Spring Boot is an open-source framework built on top of Spring Framework to simplify the development of Java-based applications, particularly microservices. 
+
+It provides a convention-over-configuration approach, reducing boilerplate code and making application setup quicker and more efficient.
 
 ## Why Spring Boot?
 
